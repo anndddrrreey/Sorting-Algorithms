@@ -1,0 +1,179 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "BubbleSorter/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Interfaces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BubbleSorter.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BubbleSorter.dll": {}
+        }
+      },
+      "InsertionSorter/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Interfaces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/InsertionSorter.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InsertionSorter.dll": {}
+        }
+      },
+      "Interfaces/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Interfaces.dll": {}
+        }
+      },
+      "QuickSorter/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Interfaces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/QuickSorter.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/QuickSorter.dll": {}
+        }
+      },
+      "SelectionSorter/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Interfaces": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SelectionSorter.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SelectionSorter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BubbleSorter/1.0.0": {
+      "type": "project",
+      "path": "../BubbleSorter/BubbleSorter.csproj",
+      "msbuildProject": "../BubbleSorter/BubbleSorter.csproj"
+    },
+    "InsertionSorter/1.0.0": {
+      "type": "project",
+      "path": "../InsertionSorter/InsertionSorter.csproj",
+      "msbuildProject": "../InsertionSorter/InsertionSorter.csproj"
+    },
+    "Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../Interfaces/Interfaces.csproj",
+      "msbuildProject": "../Interfaces/Interfaces.csproj"
+    },
+    "QuickSorter/1.0.0": {
+      "type": "project",
+      "path": "../QuickSorter/QuickSorter.csproj",
+      "msbuildProject": "../QuickSorter/QuickSorter.csproj"
+    },
+    "SelectionSorter/1.0.0": {
+      "type": "project",
+      "path": "../SelectionSorter/SelectionSorter.csproj",
+      "msbuildProject": "../SelectionSorter/SelectionSorter.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "BubbleSorter >= 1.0.0",
+      "InsertionSorter >= 1.0.0",
+      "Interfaces >= 1.0.0",
+      "QuickSorter >= 1.0.0",
+      "SelectionSorter >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+      "projectName": "ConsoleApp",
+      "projectPath": "C:\\Users\\User\\Desktop\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\ConsoleApp\\ConsoleApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\User\\Desktop\\ConsoleApp\\BubbleSorter\\BubbleSorter.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\ConsoleApp\\BubbleSorter\\BubbleSorter.csproj"
+            },
+            "C:\\Users\\User\\Desktop\\ConsoleApp\\InsertionSorter\\InsertionSorter.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\ConsoleApp\\InsertionSorter\\InsertionSorter.csproj"
+            },
+            "C:\\Users\\User\\Desktop\\ConsoleApp\\Interfaces\\Interfaces.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\ConsoleApp\\Interfaces\\Interfaces.csproj"
+            },
+            "C:\\Users\\User\\Desktop\\ConsoleApp\\QuickSorter\\QuickSorter.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\ConsoleApp\\QuickSorter\\QuickSorter.csproj"
+            },
+            "C:\\Users\\User\\Desktop\\ConsoleApp\\SelectionSorter\\SelectionSorter.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\ConsoleApp\\SelectionSorter\\SelectionSorter.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

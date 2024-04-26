@@ -1,8 +1,8 @@
-﻿using SortAlgorithms;
+﻿using ConsoleApp;
 using System;
 using System.Text;
 
-namespace SortAlgorithms
+namespace ConsoleApp
 {
     class Program
     {
@@ -11,7 +11,7 @@ namespace SortAlgorithms
             Console.OutputEncoding = Encoding.UTF8;
             Console.InputEncoding = Encoding.UTF8;
 
-            MenuManager.InputArray();
+            MainMenu.ShowMainMenu();
             MenuManager.SortingMenu();         
         }
     }

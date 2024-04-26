@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\ConsoleApp\QuickSorter\bin\Debug\QuickSorter.dll
+C:\Users\User\Desktop\ConsoleApp\QuickSorter\bin\Debug\QuickSorter.pdb
+C:\Users\User\Desktop\ConsoleApp\QuickSorter\bin\Debug\Interfaces.dll
+C:\Users\User\Desktop\ConsoleApp\QuickSorter\bin\Debug\Interfaces.pdb
+C:\Users\User\Desktop\ConsoleApp\QuickSorter\obj\Debug\QuickSorter.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ConsoleApp\QuickSorter\obj\Debug\QuickSorter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ConsoleApp\QuickSorter\obj\Debug\QuickSorter.csproj.CopyComplete
+C:\Users\User\Desktop\ConsoleApp\QuickSorter\obj\Debug\QuickSorter.dll
+C:\Users\User\Desktop\ConsoleApp\QuickSorter\obj\Debug\QuickSorter.pdb

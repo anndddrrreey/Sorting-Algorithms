@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\ConsoleApp\InsertionSorter\bin\Debug\InsertionSorter.dll
+C:\Users\User\Desktop\ConsoleApp\InsertionSorter\bin\Debug\InsertionSorter.pdb
+C:\Users\User\Desktop\ConsoleApp\InsertionSorter\bin\Debug\Interfaces.dll
+C:\Users\User\Desktop\ConsoleApp\InsertionSorter\bin\Debug\Interfaces.pdb
+C:\Users\User\Desktop\ConsoleApp\InsertionSorter\obj\Debug\InsertionSorter.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ConsoleApp\InsertionSorter\obj\Debug\InsertionSorter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ConsoleApp\InsertionSorter\obj\Debug\InsertionSorter.csproj.CopyComplete
+C:\Users\User\Desktop\ConsoleApp\InsertionSorter\obj\Debug\InsertionSorter.dll
+C:\Users\User\Desktop\ConsoleApp\InsertionSorter\obj\Debug\InsertionSorter.pdb

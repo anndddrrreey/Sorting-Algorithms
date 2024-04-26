@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\ConsoleApp\SortingAlgorithms\bin\Debug\SortingAlgorithms.dll
+C:\Users\User\Desktop\ConsoleApp\SortingAlgorithms\bin\Debug\SortingAlgorithms.pdb
+C:\Users\User\Desktop\ConsoleApp\SortingAlgorithms\bin\Debug\Interfaces.dll
+C:\Users\User\Desktop\ConsoleApp\SortingAlgorithms\bin\Debug\Interfaces.pdb
+C:\Users\User\Desktop\ConsoleApp\SortingAlgorithms\obj\Debug\SortingAlgorithms.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ConsoleApp\SortingAlgorithms\obj\Debug\SortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ConsoleApp\SortingAlgorithms\obj\Debug\SortingAlgorithms.csproj.CopyComplete
+C:\Users\User\Desktop\ConsoleApp\SortingAlgorithms\obj\Debug\SortingAlgorithms.dll
+C:\Users\User\Desktop\ConsoleApp\SortingAlgorithms\obj\Debug\SortingAlgorithms.pdb

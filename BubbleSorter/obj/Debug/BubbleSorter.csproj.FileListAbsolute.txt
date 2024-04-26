@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\ConsoleApp\BubbleSorter\bin\Debug\BubbleSorter.dll
+C:\Users\User\Desktop\ConsoleApp\BubbleSorter\bin\Debug\BubbleSorter.pdb
+C:\Users\User\Desktop\ConsoleApp\BubbleSorter\bin\Debug\Interfaces.dll
+C:\Users\User\Desktop\ConsoleApp\BubbleSorter\bin\Debug\Interfaces.pdb
+C:\Users\User\Desktop\ConsoleApp\BubbleSorter\obj\Debug\BubbleSorter.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ConsoleApp\BubbleSorter\obj\Debug\BubbleSorter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ConsoleApp\BubbleSorter\obj\Debug\BubbleSorter.csproj.CopyComplete
+C:\Users\User\Desktop\ConsoleApp\BubbleSorter\obj\Debug\BubbleSorter.dll
+C:\Users\User\Desktop\ConsoleApp\BubbleSorter\obj\Debug\BubbleSorter.pdb
